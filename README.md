@@ -21,8 +21,8 @@ Constraints
 The array consists of 1-N distinct numbers.
 
 Sample Input:
-
 5
+
 1 2 4 3 5
 
 Sample Output:
